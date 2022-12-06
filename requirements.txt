@@ -1,0 +1,6 @@
+backtesting
+ipykernel
+matplotlib
+scikit-learn
+pandas
+scipy
